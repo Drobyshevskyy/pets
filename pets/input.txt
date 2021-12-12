@@ -1,0 +1,6 @@
+vlad,cat,pushok,12
+ivan,cat,barsik,1
+vlad,cat,ryzhik,3
+vlad,dog,charlie,5
+ilya,mouse,charlie,7
+max,dog,jack,2
